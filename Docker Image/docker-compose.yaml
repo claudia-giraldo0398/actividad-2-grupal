@@ -1,0 +1,11 @@
+services:
+  bioinformatics_lab:
+    build: .
+    volumes:
+      - ./local-folder:/home/bioinstation/shared-folder
+    ports:
+      - "5901:5901"  # Example port mapping if needed
+
+volumes:
+  bioinformatics_lab:
+    name: bioinformatics_lab
