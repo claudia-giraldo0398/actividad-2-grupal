@@ -1,4 +1,4 @@
-# actividad-2-grupal                                                                                                                        
+# Actividad 2 Grupal                                                                                                                        
 # Herramientas Bioinformáticas para Analizar la Expresión Genetica de la Bacteria Escherichia coli
 
 
